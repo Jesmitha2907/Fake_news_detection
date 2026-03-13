@@ -61,3 +61,15 @@ The model can classify news articles as **Fake or Real** based on their textual 
 👩‍💻 Author
 
 Jesmitha
+## 📊 Output
+
+The trained machine learning model predicts whether a given news article is Fake or Realbased on its textual content.
+
+Example Prediction:
+📊 Output
+
+![Output Screenshot](output.png)
+
+
+
+
